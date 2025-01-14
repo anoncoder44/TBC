@@ -4,4 +4,4 @@ The TLP_code.py and VDF_code.py are main files which contains implementation det
 Process to run this code:
 dependency : pycryptodome, python3, py-benchmark
 
-
+Execution: python code_name.py (Eg: python TLP_code.py)
