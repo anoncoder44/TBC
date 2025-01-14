@@ -1,13 +1,27 @@
-This repository conatins information about implementation of two delay based primitives TLP and VDF.
 
-Performance measures to benchmark Time and Space Complexity is also included in the code.
+Overview
+This repository contains information about the implementation of two delay-based primitives:
+1. Time-Lock Puzzle (TLP)
+2. Verifiable Delay Function (VDF)
 
-To visualize the result we have added screenshots for results of TLP and VDF.
+The repository also includes performance measures to benchmark time and space complexity for both primitives. Additionally, screenshots are provided to visualize the results of TLP and VDF implementations.
 
+Dependencies:
 
-Dependencies: pycryptodome, python3, py-benchmark
+The following dependencies are required to run the code:
+pycryptodome python3 and py-benchmark
 
+Ensure that these dependencies are installed before executing the code.
 
-To run the code: Download Zip, install the dependencies.
+Instructions
 
-To Execute: python code_name.py (Eg: python TLP_code.py)
+Download the Code : Download the repository as a ZIP file or clone it using Git.
+
+Install Dependencies: Install the required dependencies using the following command:
+
+pip install pycryptodome py-benchmark
+
+Execute the Code
+
+python <code_name>.py
+
