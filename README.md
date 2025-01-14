@@ -1,7 +1,13 @@
-This repository conatins information about implementation of two delay based primitives TLP and VDF as well as the results as screenshots
-The TLP_code.py and VDF_code.py are main files which contains implementation details for TLP and VDF
+This repository conatins information about implementation of two delay based primitives TLP and VDF.
 
-Process to run this code:
-dependency : pycryptodome, python3, py-benchmark
+Performance measures to benchmark Time and Space Complexity is also included in the code.
 
-Execution: python code_name.py (Eg: python TLP_code.py)
+To visualize the result we have added screenshots for results of TLP and VDF.
+
+
+Dependencies: pycryptodome, python3, py-benchmark
+
+
+To run the code: Download Zip, install the dependencies.
+
+To Execute: python code_name.py (Eg: python TLP_code.py)
