@@ -21,7 +21,5 @@ Install Dependencies: Install the required dependencies using the following comm
 
 pip install pycryptodome py-benchmark
 
-Execute the Code
-
-python <code_name>.py
+Execute the Code: python <code_name>.py
 
