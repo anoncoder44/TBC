@@ -8,8 +8,7 @@ The repository also includes performance measures to benchmark time and space co
 
 Dependencies:
 
-The following dependencies are required to run the code:
-pycryptodome python3 and py-benchmark
+The following dependencies are required to run the code: pycryptodome, python3, and py-benchmark
 
 Ensure that these dependencies are installed before executing the code.
 
